@@ -1,0 +1,44 @@
+body {
+
+    /* ConfiguraÃ§Ãµes da imagem */
+
+background-image:url(https://www.paraquedismoskycompany.com.br/wp-content/uploads/2019/07/onde-saltar-de-paraquedas-e1562080072654.jpg);
+
+background-repeat: no-repeat;
+
+background-size: cover;
+}
+/* 
+Class que tem a responsabilidade de controlar o conteúdo
+ */
+
+.container {
+    color:white;
+    /* Cria um espaço */
+    padding: 80px;
+}
+/* 
+  Card do centro para conter as informações 
+*/
+.card {
+    background-color: black;
+    border-radius: 15px;
+    /* Cria um espaço */
+    padding: 20px;
+    text-align: center;
+}
+
+/* 
+É um botão para abrir o wpp
+*/
+
+a {
+    /* Cria um espaço */
+    padding: 15px;
+    /* Adiciona a cor ao espaço */
+    background-color: white;
+    /* Muda a cor do texto */
+    color: black;
+    /* Deixa a borda arredondada */
+    border-radius: 10px;
+}
